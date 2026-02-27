@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3- Identity Management Testing/1.2 Two RBAC Testing.md",
+                "file": "Content Enumeration Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Two RBAC Testing"
+              "title": "Content Enumeration Guide"
+            }
+          },
+          {
+            "id": "5be4ff88416ba91b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Enumeration/1.3 Content Enumeration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 Content Enumeration"
+            }
+          },
+          {
+            "id": "4d8738868b33b731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3- Identity Management Testing/Access Control Testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Access Control Testing"
             }
           }
         ]
@@ -78,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "68114194bcc8779c",
@@ -94,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3- Identity Management Testing/1.2 Two RBAC Testing.md",
+                "file": "Content Enumeration Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.2 Two RBAC Testing"
+              "title": "Backlinks for Content Enumeration Guide"
             }
           },
           {
@@ -169,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +212,23 @@
   },
   "active": "bd211de39409bfd2",
   "lastOpenFiles": [
+    "Microsoft-Frontpage 1.txt",
+    "Microsoft-Frontpage.txt",
+    "1 - Enumeration/1.3 Content Enumeration.md",
+    "Content Enumeration Guide.md",
+    "3- Identity Management Testing/Access Control Testing.md",
+    "Content Enum New.md",
+    "1 - Enumeration/1.1 - Attack Surface Enumeration.md",
     "3- Identity Management Testing/1.1 Authentication Testing.md",
+    "3- Identity Management Testing/Privilege Escalation Testing.md",
     "3- Identity Management Testing/1.2 Two RBAC Testing.md",
-    "1 - Enumeration/1.3 Content Enumeration.md"
+    "1 - Enumeration/1.2 - Web Server Enumeration.md",
+    "Content Enumeration.md",
+    "Tools",
+    "Tools/Wordlists/URL Fuzzing/Level 1/generic_app_server.txt",
+    "Wordlists/URL Fuzzing/Level 1/New Text Document.txt",
+    "Tools/Wordlists/URL Fuzzing/Level 1",
+    "Tools/Wordlists/URL Fuzzing",
+    "Tools/Wordlists"
   ]
 }
